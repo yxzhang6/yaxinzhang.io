@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# yxzhang6.github.io
+# yaxinzhang
 个人博客
 =======
 # 博客源码
